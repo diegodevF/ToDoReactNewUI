@@ -75,7 +75,7 @@ const App = () => {
             <TodoFilter changedFilter={changedFilter} filter={filter} />
          </main>
          <p className="flex justify-center gap-4  p-4 dark:text-gray-400">
-            Drag and Drop No Disponible
+            Drag and Drop - No Disponible
          </p>
       </div>
    );
